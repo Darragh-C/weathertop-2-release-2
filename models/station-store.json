@@ -135,6 +135,156 @@
       "minWind": "7",
       "maxPressure": "999",
       "minPressure": "1000"
+    },
+    {
+      "id": "0f6df160-31f7-11ed-9506-ad432e0e2d36",
+      "userid": "fd8326a0-31f6-11ed-9506-ad432e0e2d36",
+      "stationName": "Dunmore",
+      "latitude": "53.44",
+      "longitude": "-6.33",
+      "readings": [
+        {
+          "id": "2ab17730-31f7-11ed-9506-ad432e0e2d36",
+          "code": "200",
+          "temp": "21",
+          "windSpeed": "6",
+          "windDir": "45",
+          "pressure": "999",
+          "weather": "Partial Clouds",
+          "weatherIcon": "cloud sun",
+          "tempFar": "69.8",
+          "beaufourt": 1,
+          "windCompass": "East North East",
+          "windChill": "22.12"
+        },
+        {
+          "id": "37b279c0-31f7-11ed-9506-ad432e0e2d36",
+          "code": "300",
+          "temp": "22",
+          "windSpeed": "5",
+          "windDir": "60",
+          "pressure": "998",
+          "weather": "Cloudy",
+          "weatherIcon": "cloud",
+          "tempFar": "71.6",
+          "beaufourt": 1,
+          "windCompass": "East",
+          "windChill": "23.37"
+        },
+        {
+          "id": "40e2c540-31f7-11ed-9506-ad432e0e2d36",
+          "code": "100",
+          "temp": "23",
+          "windSpeed": "4",
+          "windDir": "90",
+          "pressure": "997",
+          "weather": "Clear",
+          "weatherIcon": "sun",
+          "tempFar": "73.4",
+          "beaufourt": 1,
+          "windCompass": "East South East",
+          "windChill": "24.61"
+        },
+        {
+          "id": "59ecd5d0-31f7-11ed-9506-ad432e0e2d36",
+          "code": "600",
+          "temp": "24",
+          "windSpeed": "3",
+          "windDir": "80",
+          "pressure": "996",
+          "weather": "Rain",
+          "weatherIcon": "cloud rain",
+          "tempFar": "75.2",
+          "beaufourt": 1,
+          "windCompass": "East South East",
+          "windChill": "25.83"
+        }
+      ],
+      "latestReading": {
+        "id": "59ecd5d0-31f7-11ed-9506-ad432e0e2d36",
+        "code": "600",
+        "temp": "24",
+        "windSpeed": "3",
+        "windDir": "80",
+        "pressure": "996",
+        "weather": "Rain",
+        "weatherIcon": "cloud rain",
+        "tempFar": "75.2",
+        "beaufourt": 1,
+        "windCompass": "East South East",
+        "windChill": "25.83"
+      },
+      "maxTemp": "24",
+      "minTemp": "21",
+      "maxWind": "6",
+      "minWind": "3",
+      "maxPressure": "999",
+      "minPressure": "996"
+    },
+    {
+      "id": "216d2e80-31f7-11ed-9506-ad432e0e2d36",
+      "userid": "fd8326a0-31f6-11ed-9506-ad432e0e2d36",
+      "stationName": "Ardmore",
+      "latitude": "53.22",
+      "longitude": "-6.55",
+      "readings": [
+        {
+          "id": "69cd9fc0-31f7-11ed-9506-ad432e0e2d36",
+          "code": "100",
+          "temp": "15",
+          "windSpeed": "6",
+          "windDir": "48",
+          "pressure": "1001",
+          "weather": "Clear",
+          "weatherIcon": "sun",
+          "tempFar": "59.0",
+          "beaufourt": 1,
+          "windCompass": "East North East",
+          "windChill": "15.22"
+        },
+        {
+          "id": "72c5c440-31f7-11ed-9506-ad432e0e2d36",
+          "code": "100",
+          "temp": "16",
+          "windSpeed": "5",
+          "windDir": "40",
+          "pressure": "1000",
+          "weather": "Clear",
+          "weatherIcon": "sun",
+          "tempFar": "60.8",
+          "beaufourt": 1,
+          "windCompass": "East North East",
+          "windChill": "16.56"
+        },
+        {
+          "id": "7b9f8b50-31f7-11ed-9506-ad432e0e2d36",
+          "code": "200",
+          "temp": "17",
+          "windSpeed": "4",
+          "windDir": "30",
+          "pressure": "999"
+        }
+      ],
+      "latestReading": {
+        "id": "72c5c440-31f7-11ed-9506-ad432e0e2d36",
+        "code": "100",
+        "temp": "16",
+        "windSpeed": "5",
+        "windDir": "40",
+        "pressure": "1000",
+        "weather": "Clear",
+        "weatherIcon": "sun",
+        "tempFar": "60.8",
+        "beaufourt": 1,
+        "windCompass": "East North East",
+        "windChill": "16.56"
+      },
+      "maxTemp": "16",
+      "minTemp": "15",
+      "maxWind": "6",
+      "minWind": "5",
+      "maxPressure": "1001",
+      "minPressure": "1000"
     }
   ]
 }
