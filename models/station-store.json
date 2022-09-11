@@ -1,0 +1,140 @@
+{
+  "stationCollection": [
+    {
+      "id": "2f2e1d20-31e0-11ed-9294-894de29435ea",
+      "userid": "0f1da410-2b8c-11ed-a8f9-eb3ada4a8b4b",
+      "stationName": "Cobh",
+      "latitude": "53.33",
+      "longitude": "-7.22",
+      "readings": [
+        {
+          "id": "3bd05de0-31e0-11ed-9294-894de29435ea",
+          "code": "200",
+          "temp": "23",
+          "windSpeed": "5",
+          "windDir": "122",
+          "pressure": "1000",
+          "weather": "Partial Clouds",
+          "weatherIcon": "cloud sun",
+          "tempFar": "73.4",
+          "beaufourt": 1,
+          "windCompass": "East South East",
+          "windChill": "24.50"
+        },
+        {
+          "id": "6a0485b0-31e0-11ed-9294-894de29435ea",
+          "code": "300",
+          "temp": "24",
+          "windSpeed": "4",
+          "windDir": "150",
+          "pressure": "1001",
+          "weather": "Cloudy",
+          "weatherIcon": "cloud",
+          "tempFar": "75.2",
+          "beaufourt": 1,
+          "windCompass": "South South East",
+          "windChill": "25.72"
+        },
+        {
+          "id": "71c69b30-31e0-11ed-9294-894de29435ea",
+          "code": "400",
+          "temp": "25",
+          "windSpeed": "3",
+          "windDir": "130",
+          "pressure": "1002",
+          "weather": "Light Showers",
+          "weatherIcon": "cloud sun rain",
+          "tempFar": "77.0",
+          "beaufourt": 1,
+          "windCompass": "South East",
+          "windChill": "26.92"
+        }
+      ],
+      "latestReading": {
+        "id": "71c69b30-31e0-11ed-9294-894de29435ea",
+        "code": "400",
+        "temp": "25",
+        "windSpeed": "3",
+        "windDir": "130",
+        "pressure": "1002",
+        "weather": "Light Showers",
+        "weatherIcon": "cloud sun rain",
+        "tempFar": "77.0",
+        "beaufourt": 1,
+        "windCompass": "South East",
+        "windChill": "26.92"
+      },
+      "maxTemp": "25",
+      "minTemp": "23",
+      "maxWind": "5",
+      "minWind": "3",
+      "maxPressure": "1002",
+      "minPressure": "1000"
+    },
+    {
+      "id": "8dfa9b80-31e0-11ed-9294-894de29435ea",
+      "userid": "0f1da410-2b8c-11ed-a8f9-eb3ada4a8b4b",
+      "stationName": "Kinsale",
+      "latitude": "53.33",
+      "longitude": "-7.05",
+      "readings": [
+        {
+          "id": "9eddba40-31e0-11ed-9294-894de29435ea",
+          "code": "200",
+          "temp": "23",
+          "windSpeed": "7",
+          "windDir": "150",
+          "pressure": "999",
+          "weather": "Partial Clouds",
+          "weatherIcon": "cloud sun",
+          "tempFar": "73.4",
+          "beaufourt": 2,
+          "windCompass": "South South East",
+          "windChill": "24.34"
+        },
+        {
+          "id": "a733d260-31e0-11ed-9294-894de29435ea",
+          "code": "300",
+          "temp": "25",
+          "windSpeed": "9",
+          "windDir": "160",
+          "pressure": "1000",
+          "weather": "Cloudy",
+          "weatherIcon": "cloud",
+          "tempFar": "77.0",
+          "beaufourt": 2,
+          "windCompass": "South South East",
+          "windChill": "26.59"
+        },
+        {
+          "id": "b21f6270-31e0-11ed-9294-894de29435ea",
+          "code": "500",
+          "temp": "21",
+          "windSpeed": "2",
+          "windDir": "90",
+          "pressure": "999"
+        }
+      ],
+      "latestReading": {
+        "id": "a733d260-31e0-11ed-9294-894de29435ea",
+        "code": "300",
+        "temp": "25",
+        "windSpeed": "9",
+        "windDir": "160",
+        "pressure": "1000",
+        "weather": "Cloudy",
+        "weatherIcon": "cloud",
+        "tempFar": "77.0",
+        "beaufourt": 2,
+        "windCompass": "South South East",
+        "windChill": "26.59"
+      },
+      "maxTemp": "25",
+      "minTemp": "23",
+      "maxWind": "9",
+      "minWind": "7",
+      "maxPressure": "999",
+      "minPressure": "1000"
+    }
+  ]
+}

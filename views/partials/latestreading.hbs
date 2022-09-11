@@ -1,0 +1,103 @@
+<div class="ui centered equal width grid">
+  <div class="row">
+    <div class="column">
+      <div class="ui segment">
+        <h3>{{station.stationName}}</h3>
+        <i class="huge map marker icon"></i>
+        <br>
+        <br>
+        Latitude: {{station.latitude}}
+        <br>
+        Longitude: {{station.longitude}}
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+    </div>
+    <div class="column">
+      <div class="ui segment">
+        <h3>Weather</h3>
+        <i class="huge blue right floated {{station.latestReading.weatherIcon}} icon"></i>
+        <br>
+        <br>
+        {{station.latestReading.weather}}
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+    </div>
+    <div class="column">
+      <div class="ui segment">
+        <h3>Temp</h3>
+        <i class="huge left floated grey temperature low icon"></i>
+        <br>
+        {{#ifEq station.tempTrend 1}}
+          <i class="huge right floated green arrow up icon"></i>
+        {{else ifEq station.tempTrend -1}}
+          <i class="huge red arrow down icon"></i>
+        {{/ifEq}}
+        <br>
+        {{station.latestReading.temp}} C or {{station.latestReading.tempFar}} F
+        <br>
+        Max: {{station.maxTemp}}
+        <br>
+        Min: {{station.minTemp}}
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+    </div>
+    <div class="column">
+      <div class="ui segment">
+        <h3>Wind speed</h3>
+        <i class="huge grey wind icon"></i>
+        <br>
+        {{#ifEq station.windTrend 1}}
+          <i class="huge right floated green arrow up icon"></i>
+        {{else ifEq station.windTrend -1}}
+          <i class="huge red arrow down icon"></i>
+        {{/ifEq}}
+        <br>
+        {{station.latestReading.beaufourt}} Bft
+        <br>
+        Max: {{station.maxWind}}
+        <br>
+        Min: {{station.minWind}}
+        <br>
+        Wind direction:
+        <br>
+        {{station.latestReading.windCompass}}
+        <br>
+        Feels like: {{station.latestReading.windChill}}
+      </div>
+    </div>
+    <div class="column">
+      <div class="ui segment">
+        <h3>Pressure</h3>
+        <i class="huge grey tachometer alternate icon"></i>
+        <br>
+        {{#ifEq station.pressureTrend 1}}
+          <i class="huge right floated green arrow up icon"></i>
+        {{else ifEq station.pressureTrend -1}}
+          <i class="huge red arrow down icon"></i>
+        {{/ifEq}}
+        <br>
+        {{station.latestReading.pressure}} hPa
+        <br>
+        Max: {{station.maxPressure}}
+        <br>
+        Min: {{station.minPressure}}
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5452c255-3615-4647-a2d3-28e16562fa50" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DAyCD6R0K7BgfexOKSYu20J5X8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/darragh/git-repo/weathertop-2-release-2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/darragh/git-repo/weathertop-2-release-2/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/partials" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/partials" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5452c255-3615-4647-a2d3-28e16562fa50" name="Changes" comment="" />
+      <created>1660156053760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660156053760</updated>
+      <workItem from="1660156055555" duration="4325000" />
+      <workItem from="1660235536864" duration="89000" />
+      <workItem from="1660244957950" duration="3336000" />
+      <workItem from="1660319434180" duration="1104000" />
+      <workItem from="1660383030980" duration="17868000" />
+      <workItem from="1660471180537" duration="9319000" />
+      <workItem from="1660549727904" duration="290000" />
+      <workItem from="1660585298266" duration="123000" />
+      <workItem from="1660991956295" duration="7009000" />
+      <workItem from="1661371567524" duration="2619000" />
+      <workItem from="1661374324168" duration="501000" />
+      <workItem from="1661419253588" duration="104000" />
+      <workItem from="1661539297973" duration="38000" />
+      <workItem from="1661539344541" duration="924000" />
+      <workItem from="1661540387317" duration="147000" />
+      <workItem from="1661540555464" duration="4868000" />
+      <workItem from="1661594766793" duration="4752000" />
+      <workItem from="1661631358997" duration="6927000" />
+      <workItem from="1661848135421" duration="8000" />
+      <workItem from="1661976967172" duration="2409000" />
+      <workItem from="1662060184701" duration="4087000" />
+      <workItem from="1662147496404" duration="4484000" />
+      <workItem from="1662196892060" duration="14620000" />
+      <workItem from="1662302060638" duration="97000" />
+      <workItem from="1662303920947" duration="57000" />
+      <workItem from="1662304771290" duration="4015000" />
+      <workItem from="1662406943006" duration="598000" />
+      <workItem from="1662454145674" duration="3000" />
+      <workItem from="1662493563084" duration="46000" />
+      <workItem from="1662755158855" duration="2776000" />
+      <workItem from="1662857288094" duration="3203000" />
+      <workItem from="1662905334614" duration="921000" />
+      <workItem from="1662906313736" duration="2469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
